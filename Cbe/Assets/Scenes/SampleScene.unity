@@ -664,7 +664,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1185675391
 Transform:
   m_ObjectHideFlags: 0
@@ -696,7 +696,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullet: {fileID: 835771784280904244, guid: 4ef2a830e1155f64d8b9fafadbd42425, type: 3}
   tip: {fileID: 1326223563}
-  rate: 0.99
+  rate: 0.4
   recoil: 0
   muzzle: {fileID: 465370220663977012, guid: a7bd2d789450ff24fa4ecdeada338800, type: 3}
   rb: {fileID: 2105244612}
@@ -1022,7 +1022,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1728917436
 Transform:
   m_ObjectHideFlags: 0

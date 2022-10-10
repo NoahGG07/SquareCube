@@ -64,6 +64,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (1)
@@ -126,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet
@@ -196,6 +204,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (3)
@@ -266,6 +278,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (2)
@@ -336,6 +352,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (4)
@@ -406,6 +426,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (5)
@@ -468,6 +492,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (10)
@@ -538,6 +566,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (8)
@@ -608,6 +640,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (7)
@@ -670,6 +706,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (9)
@@ -740,6 +780,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (6)
@@ -802,6 +846,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (11)
@@ -872,6 +920,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 108454541886836614}
     m_Modifications:
+    - target: {fileID: -6789722285454772762, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
+      objectReference: {fileID: 0}
     - target: {fileID: 7285184529496903961, guid: 0a05c665fbce0784b82c17e53e49b291, type: 3}
       propertyPath: m_Name
       value: Bullet (12)
