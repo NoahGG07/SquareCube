@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 4376275186932773986}
   - component: {fileID: 7826151690451515606}
   m_Layer: 6
-  m_Name: Bullet
+  m_Name: Bullet Sniper
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -50,8 +50,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0016576317, y: 0.00016575292}
-  m_Size: {x: 0.070499465, y: 0.048951622}
+  m_Offset: {x: -0.0020824634, y: 0.00016575296}
+  m_Size: {x: 0.09683976, y: 0.048951775}
   m_Direction: 1
 --- !u!50 &7285184529496903966
 Rigidbody2D:
@@ -86,8 +86,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c2405165143bbe47b03e0cf183292f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 50
-  damage: 10
+  speed: 250
+  damage: 50
 --- !u!96 &4376275186932773986
 TrailRenderer:
   serializedVersion: 2
@@ -130,7 +130,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Time: 0.2
+  m_Time: 0.6
   m_Parameters:
     serializedVersion: 3
     widthMultiplier: 1
@@ -319,7 +319,7 @@ Transform:
   m_GameObject: {fileID: 7285184530881194960}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.59478, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 7285184529496903967}

@@ -37,8 +37,8 @@ public class Gun : MonoBehaviour
     void Shoot()
     {
         Instantiate(muzzle, tip.position, tip.rotation);
-        Instantiate(bullet, tip.position, tip.rotation);
-        
+        GameObject bulletObject = Instantiate(bullet, tip.position, tip.rotation);
+        bulletObject.transform.Rotate(UnityEngine.Random.Range(recoil * -1, recoil), UnityEngine.Random.Range(recoil * -1, recoil), 0);
         
     }
 }
